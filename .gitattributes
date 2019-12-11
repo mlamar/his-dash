@@ -1,2 +1,3 @@
 node_modules.tar.bz2 filter=lfs diff=lfs merge=lfs -text
 go.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+rbenv.tar.bz2 filter=lfs diff=lfs merge=lfs -text

@@ -2,3 +2,4 @@ node_modules.tar.bz2 filter=lfs diff=lfs merge=lfs -text
 go.tar.bz2 filter=lfs diff=lfs merge=lfs -text
 rbenv.tar.bz2 filter=lfs diff=lfs merge=lfs -text
 emacs.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+as400.zip filter=lfs diff=lfs merge=lfs -text
